@@ -1,0 +1,6 @@
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\bin\Debug\HDInsight.AsvKeyEncryptor.exe.config
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\bin\Debug\HDInsight.AsvKeyEncryptor.exe
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\bin\Debug\HDInsight.AsvKeyEncryptor.pdb
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\obj\Debug\HDInsight.AsvKeyEncryptor.exe
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\obj\Debug\HDInsight.AsvKeyEncryptor.pdb
+Z:\src\HDInsight.AsvKeyEncryptor\HDInsight.AsvKeyEncryptor\obj\Debug\HDInsight.AsvKeyEncryptor.csprojResolveAssemblyReference.cache
